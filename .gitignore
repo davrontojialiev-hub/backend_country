@@ -1,6 +1,7 @@
 .idea/
 __pycashe__/
-*.*pyc
+*.pyc
 venv/
 .venv/
 env/
+.env
