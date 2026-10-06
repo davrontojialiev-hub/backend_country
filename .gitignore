@@ -1,0 +1,6 @@
+.idea/
+__pycashe__/
+*.*pyc
+venv/
+.venv/
+env/
